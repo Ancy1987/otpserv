@@ -8,4 +8,5 @@ Hexagonal Architecture OTP serv using spring boot
 - export GMAIL_USERNAME="GMAIL ID"
 
 2.mvn install
-3.java -jar target/otp-0.0.1-SNAPSHOT.jar
+
+3.Run as java -jar target/otp-0.0.1-SNAPSHOT.jar
